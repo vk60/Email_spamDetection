@@ -94,6 +94,9 @@ Win free cash now
 Not Spam Example
 Let's meet tomorrow
 
+<!-- Here is live Example -->
+[text](vectorizer.pkl)
+
 📊 Machine Learning Workflow
 
 Dataset 
