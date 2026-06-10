@@ -41,7 +41,14 @@ Beginner-friendly project
 TechnologyPurposePythonProgramming LanguagePandasData Handlingscikit-learnMachine LearningStreamlitWeb UI
 
 📂 Project Structure
-spam_detection_project/│├── spam.csv├── train.py├── app.py├── model.pkl├── vectorizer.pkl├── requirements.txt└── README.md
+spam_detection_project/
+│├── spam.csv
+├── train.py
+├── app.py
+├── model.pkl
+├── vectorizer.pkl
+├── requirements.txt
+└── README.md
 
 ⚙️ Installation
 1. Clone Repository
